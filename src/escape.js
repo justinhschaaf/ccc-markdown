@@ -1,3 +1,5 @@
+// The following code is heavily based from marked (markedjs.com). Licensed under MIT: https://github.com/markedjs/marked/blob/master/LICENSE.md
+
 ;(function(root) {
 'use strict';
 

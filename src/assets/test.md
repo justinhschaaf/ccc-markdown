@@ -1,4 +1,4 @@
-### Navbar
+# Navbar
 
 Final thing to do before we finish this lesson and get into the project, is do a quick tutorial on how to make a basic floating header.
 
@@ -99,3 +99,15 @@ Almost every website you go to has a header, they provide the name of the site a
   height: 1500px;
 }
 ```
+
+## Section 2
+
+This is a second section that exists for testing!
+
+# Section 3
+
+This is a *third* section that also exists for testing!
+
+## Section 4
+
+You get the point by now...
